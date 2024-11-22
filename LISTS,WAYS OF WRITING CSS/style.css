@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    background-color: red;
+    color: orange;
+}
+/* li{
+    list-style-type: square;
+    list-style-image: url("./images/dragon\ ball.webp");
+} */
+/* li::marker{
+   content: "🎏";
+} */
+div{
+    display: inline-block;
+    margin: 5px;
+    border: 5px solid yellow;
+    width: 300px;
+    height: 350px;
+    background-color: aqua;
+}
+li{
+    font-size: 1rem;
+}
